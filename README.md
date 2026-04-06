@@ -1,2 +1,2 @@
 # Meta-MemBank
-Meta-MemBank4Nips26!
+Meta-MemBank@Nips26!
