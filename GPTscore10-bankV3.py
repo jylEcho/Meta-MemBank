@@ -10,7 +10,7 @@ from openai import OpenAI
 # ========== 1. 配置 ==========
 client = OpenAI(
     base_url="API_ENDPOINT_NOT_CONFIGURED",
-    api_key="sk-sEnDSSyeQuGCDCd1DyWwiAiU3fH7ISlgnLx1Sz2FV7iJlCcr"
+    api_key=""
 )
 
 IMAGE_ROOT = "./external/granulon/Eval_CC12M/dinov_qwen3-8B_10/images"          # 图片根目录
