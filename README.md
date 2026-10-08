@@ -2,8 +2,6 @@
 
 Meta-MemBank is a research codebase for **memory-augmented multimodal visual question answering (VQA)**. It explores how a structured semantic memory bank can provide visual-language models with reusable information about entities, scenes, and relationships. The repository contains multiple experimental generations of memory banks and model integrations, together with training and benchmark evaluation code.
 
-> The codebase includes several evolving experiment variants. Use matching model, training script, and memory bank versions when reproducing a result.
-
 ## Overview
 
 The project combines a vision-language model with an external or model-integrated semantic bank. During training and inference, selected bank entries can provide additional context for answering image-grounded questions. The repository includes implementations based on LLaVA-style models and configurations for Qwen-family language models and different visual encoders.
